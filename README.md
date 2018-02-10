@@ -72,8 +72,11 @@ Transaction category
     standard
     additional
 
-|| Data item || Explanation (where appropriate) ||
+
+| Data item | Explanation (where appropriate) |
+| ------------- |:-------------:|
 | Transaction unique identifier |	A reference number which is generated automatically recording each published sale. The number is unique and will change each time a sale is recorded. |
+
 Price 	Sale price stated on the transfer deed.
 Date of Transfer 	Date when the sale was completed, as stated on the transfer deed.
 Postcode 	This is the postcode used at the time of the original transaction. Note that postcodes can be reallocated and these changes are not reflected in the Price Paid Dataset.
